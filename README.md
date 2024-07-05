@@ -29,3 +29,8 @@ python word_guessing_game.py
 
 ## Author
 This game was created by [Jinnat Ara Khatun].
+
+OUTPUT :--
+
+![Screenshot 2024-07-02 014616](https://github.com/Jinnat36/Word_Guessing_Game_using_Python/assets/157870456/7e7d72e4-a5fc-438b-afe2-43c6fc4d478b)
+
